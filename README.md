@@ -1,4 +1,10 @@
-## Hi there 👋
+## Bienvenido a mi perfil
+🟨🟦🟥
+
+💢 Dominando HTML, CSS y javascript. Proximamente un framework.
+💠 Actualmente trabajando en el reto de los 50 proyectos en 50 días.
+💥 Abierto a cualquier oferta de trabajo y capacitación.
+✨ En un futuro planeo aprender SQL y C# por mi cuenta.
 
 <!--
 **Ragzeo/Ragzeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
